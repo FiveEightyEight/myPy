@@ -1,5 +1,5 @@
 words = dict()
-words["adjectives"] = ["red", "moist", "bad"]
+words["adjectives"] = ["red", "wet", "bad"]
 words["nouns"] = ["cars", "bird", "island"]
 words["verbs"] = ["strike", "slice"]
 words['nationality'] = ["Persian"]
